@@ -1,6 +1,7 @@
 Git Version Controller
 
 Initializing the Local Git Folder
+
 --->	git init            
 
 Push Files to Github Repo
@@ -9,11 +10,9 @@ Push Files to Github Repo
 	git commit -m "test msg"
 	git push 
 		
-
 Render Modified Files From Github Repo
 		
 --->	git pull 
-
 
 Remove the file only from From the Local filesystem
 
