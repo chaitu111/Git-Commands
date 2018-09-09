@@ -7,7 +7,7 @@ Initializing the Local Git file system
 
 Push Files to Github Repo First Time
 
---->git remote add origin git_url
+--->git remote add origin github_url
 --->git remote -v
 --->git push origin master
 
