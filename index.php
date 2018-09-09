@@ -20,13 +20,13 @@ Remove the file only from From the Local filesystem
 --->    git commit -m "msg"
 	
 Remove the file only from the Git repository and not from the filesystem
-	
+
 --->	git rm --cached file1.txt
 --->    git commit -m "remove file1.txt"
 
-And to push changes to remote repo
-
+Push changes to remote repo
 --->	git push origin branch_name
 
-Clone the github repo
+Clone the exsisting github repo
+
 --->	git clone github_url  
