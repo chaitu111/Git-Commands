@@ -1,7 +1,7 @@
 Git Version Controller
 
-
---->	git init              ----  Initializing the Local Git Folder
+Initializing the Local Git Folder
+--->	git init            
 
 Push Files to Github Repo
 
