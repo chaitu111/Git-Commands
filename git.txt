@@ -9,6 +9,9 @@ Push Files to Github Repo
 --->	git add filename
 --->	git commit -m "test msg"
 --->	git push 
+
+Note to add all files
+--->   git add . 
 		
 Render Modified Files From Github Repo
 		
