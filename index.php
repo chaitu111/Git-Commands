@@ -3,14 +3,11 @@ Git Version Controller
 
 --->	git init              ----  Initializing the Local Git Folder
 
---->	git clone github_url  ----  Clone the github repo
-
-
 Push Files to Github Repo
 
 --->	git add filename
-		git commit -m "test msg"
-		git push --- to upload to repository
+	git commit -m "test msg"
+	git push --- to upload to repository
 		
 
 Render Modified Files From Github Repo
@@ -31,3 +28,6 @@ Remove the file only from the Git repository and not from the filesystem
 And to push changes to remote repo
 
 --->	git push origin branch_name
+
+Clone the github repo
+--->	git clone github_url  
