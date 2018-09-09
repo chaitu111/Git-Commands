@@ -10,7 +10,7 @@ Push Files to Github Repo
 --->	git commit -m "test msg"
 --->	git push 
 
-
+Note
 --->   git add .            (To add all files)
 --->   git add ./folderName (To add a particular foldername)
 		
