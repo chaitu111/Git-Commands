@@ -33,3 +33,10 @@ Remove the file only from the Git repository
 Clone the exsisting github repo
 
 --->	git clone github_url  
+
+==================================
+--->git remote add origin https://github.com/user/repo.git
+--->git remote -v
+--->git push origin master
+
+
