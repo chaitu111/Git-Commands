@@ -7,12 +7,12 @@ Push Files to Github Repo
 
 --->	git add filename
 	git commit -m "test msg"
-	git push --- to upload to repository
+	git push 
 		
 
 Render Modified Files From Github Repo
 		
---->	git pull ---- to get files from git repository
+--->	git pull 
 
 
 Remove the file only from From the Local filesystem
