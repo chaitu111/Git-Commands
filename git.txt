@@ -4,11 +4,19 @@ Initializing the Local Git file system
 
 --->	git init            
 
+
+Push Files to Github Repo First Time
+
+--->git remote add origin https://github.com/user/repo.git
+--->git remote -v
+--->git push origin master
+
+
 Push Files to Github Repo
 
 --->	git add filename
 --->	git commit -m "test msg"
---->	git push 
+--->	git push or git push -u origin master
 
 Note
 --->   git add .            (To add all files)
@@ -34,9 +42,6 @@ Clone the exsisting github repo
 
 --->	git clone github_url  
 
-==================================
---->git remote add origin https://github.com/user/repo.git
---->git remote -v
---->git push origin master
+
 
 
