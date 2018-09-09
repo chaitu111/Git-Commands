@@ -25,6 +25,7 @@ Remove the file only from the Git repository and not from the filesystem
 --->    git commit -m "remove file1.txt"
 
 Push changes to remote repo
+
 --->	git push origin branch_name
 
 Clone the exsisting github repo
