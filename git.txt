@@ -18,7 +18,7 @@ Push Files to Github Repo
 --->	git commit -m "test msg"
 --->	git push or git push -u origin master
 
-Note
+Push All Files or a Folder to Github Repo
 --->   git add .            (To add all files)
 --->   git add ./folderName (To add a particular foldername)
 		
