@@ -4,33 +4,40 @@ Step 2: Create and Account in Github
 Git Version Controller Commands
 
 Step 3: 
+
 Create a Folder in Your Local System , Go to Organise->Folder and Search Options -> View -> Check [Show Hidden Files, Folders and Drives]
 
 Step 4: Command to Initilize the Local Git file system
 --->	git init            
 
 
-Push Files to Github Repo First Time
-
---->git remote add origin github_url
---->git remote -v
---->git push origin master
+Step 5: Clone the exsisting github repo
+--->	git clone github_url
 
 
-Push Files to Github Repo
+Step 6: Upload Files from Local Machine to Github Repo
 
 --->	git add filename
 --->	git commit -m "test msg"
---->	git push or git push -u origin master
+--->	git push
+
+
+Step 5: Render Modified Files From Github Repo
+		
+--->	git pull 
+
+
+Others
 
 Push All Files or a Folder to Github Repo
 
 --->   git add .            (To add all files)
 --->   git add ./folderName (To add a particular foldername)
-		
-Render Modified Files From Github Repo
-		
---->	git pull 
+
+============================================================================================
+
+
+
 
 Remove the file only from From the Local filesystem
 
@@ -43,11 +50,17 @@ Remove the file only from the Git repository
 --->    git commit -m "remove file1.txt"
 --->	git push origin branch_name
 
+Push Files to Github Repo
 
-Clone the exsisting github repo
+--->	git add filename
+--->	git commit -m "test msg"
+--->	git push or git push -u origin master
 
---->	git clone github_url  
+Push Files to Github Repo First Time
 
+--->git remote add origin github_url
+--->git remote -v
+--->git push origin master
 
 
 
