@@ -6,7 +6,7 @@ Git Version Controller Commands
 Step 3: 
 Create a Folder in Your Local System , Go to Organise->Folder and Search Options -> View -> Check [Show Hidden Files, Folders and Drives]
 
-Command to Initializing the Local Git file system
+Step 4: Command to Initilize the Local Git file system
 --->	git init            
 
 
