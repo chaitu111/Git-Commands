@@ -3,8 +3,10 @@ Step 2: Create and Account in Github
 
 Git Version Controller Commands
 
-Initializing the Local Git file system
+Step 3: 
+Create a Folder in Your Local System and Organise->Folder and Search Options -> View -> Check [Show Hidden Files, Folders and Drives]
 
+Command to Initializing the Local Git file system
 --->	git init            
 
 
