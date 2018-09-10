@@ -15,14 +15,18 @@ Step 5: Clone the exsisting github repo
 --->	git clone github_url
 
 
-Step 6: Upload Files from Local Machine to Github Repo
+Step 6: Configure Your account
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+Step 7: Upload Files from Local Machine to Github Repo
 
 --->	git add filename
 --->	git commit -m "test msg"
 --->	git push
 
 
-Step 5: Render Modified Files From Github Repo
+Step 8: Render Modified Files From Github Repo
 		
 --->	git pull 
 
