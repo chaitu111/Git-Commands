@@ -1,3 +1,12 @@
+
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/chaitu111/hrm.git
+git push -u origin master
+
+
+========================================
 Step 1 : Download Git And Install : https://git-scm.com/download/win
 
 Step 2: Create and Account in Github
