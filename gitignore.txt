@@ -1,0 +1,9 @@
+Create A file .gitignore.
+
+
+to escape a file
+
+
+
+
+to escape a folder
