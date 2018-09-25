@@ -1,9 +1,14 @@
 Create A file .gitignore.
 
 
-to escape a file
+To escape a file
+
+1. Filename.txt
+
+2. *.txt
+
+3. Video.*
 
 
 
-
-to escape a folder
+To escape a folder
