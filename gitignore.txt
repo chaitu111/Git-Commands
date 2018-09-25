@@ -12,3 +12,9 @@ To escape a file
 
 
 To escape a folder
+
+1. Foldername/
+
+2. Foldername/*
+
+3. */Foldername/*
